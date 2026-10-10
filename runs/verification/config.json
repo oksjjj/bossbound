@@ -1,0 +1,12 @@
+{
+  "device": "cpu",
+  "episodes": 800,
+  "seed": 42,
+  "output": "runs/example",
+  "warmup": 100,
+  "algorithm": "PyTorch masked DQN",
+  "gamma": 1.0,
+  "reward_scale": 100,
+  "buffer": 20000,
+  "batch": 64
+}

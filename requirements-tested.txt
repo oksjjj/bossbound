@@ -1,0 +1,4 @@
+numpy==2.3.5
+gymnasium==1.4.0
+pygame==2.6.1
+torch==2.14.1

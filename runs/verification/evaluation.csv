@@ -1,0 +1,12 @@
+agent,win_rate,winning_turns,mean_score
+random,0.0,,-30.0
+attack,1.0,46.0,188.0
+mixed,1.0,51.0,178.0
+defense,1.0,70.0,140.0
+weapon,1.0,45.0,190.0
+armor,1.0,47.0,186.0
+potion,1.0,45.0,190.0
+weapon-potion,1.0,56.0,168.0
+both,1.0,68.0,144.0
+both-potion,1.0,74.0,132.0
+dqn,0.0,,-30.0
